@@ -1,9 +1,9 @@
 <!-- Profile Header Image -->
-https://raw.githubusercontent.com/Harshini-Gittech/assets/main/banner1.jpg
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harshini-Gittech/Harshini-Gittech/main/banner1.jpg" alt="Coding Banner" width="100%" />
+</p>
 
 <h1 align="center">Hey there 👋, I'm Harshini</h1>
-
 <h3 align="center">💻 BCA Student | Aspiring Data Analyst & Web Developer</h3>
 
 <p align="center">
@@ -39,5 +39,10 @@ https://raw.githubusercontent.com/Harshini-Gittech/assets/main/banner1.jpg
 ---
 
 <p align="center">
-  <i>"Glitches in my code > silence in your grind."</i>  
+  <i>"Glitches in my code > silence in your grind."</i>
 </p>
+
+
+---
+
+
