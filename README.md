@@ -1,5 +1,6 @@
 <!-- Profile Header Image -->
-<img src="https://i.imgur.com/4M7IWwP.gif" alt="Coding Animation" width="100%" />
+https://raw.githubusercontent.com/Harshini-Gittech/assets/main/banner1.jpg
+
 
 <h1 align="center">Hey there 👋, I'm Harshini</h1>
 
