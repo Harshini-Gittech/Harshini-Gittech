@@ -1,6 +1,6 @@
 <!-- Profile Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harshini-Gittech/Harshini-Gittech/main/banner1.jpg" alt="Coding Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Harshini-Gittech/Harshini-Gittech/main/banner1.jpg" width="100%" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm Harshini</h1>
