@@ -16,12 +16,12 @@
 <table>
 <tr>
 <td width="65%">
--🎓 BCA Student @ Mangalore University
-- 💻 Exploring the intersection of Data Analytics, AI, and Full Stack Development
--  🧩 Learning Python, SQL, React.js, MongoDB, and Power BI — one bug at a time
--  ⚙️ Strong in problem-solving, data visualization, and UI thinking
-- 🚀 Driven to turn raw data and ideas into simple, functional digital solutions
-- 💬 Believe in growing through curiosity, consistency, and real-world practice
+  🎓 BCA Student @ Mangalore University
+  💻 Exploring the intersection of Data Analytics, AI, and Full Stack Development
+  🧩 Learning Python, SQL, React.js, MongoDB, and Power BI — one bug at a time
+  ⚙️ Strong in problem-solving, data visualization, and UI thinking
+  🚀 Driven to turn raw data and ideas into simple, functional digital solutions
+  💬 Believe in growing through curiosity, consistency, and real-world practice
   Code with logic. Design with empathy. Learn without limits.
 
 </td>
@@ -59,12 +59,9 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,express,mongodb,nodejs,react,git,github,vscode,figma,canva,ai,powershell" /><br/>
-  <img src="https://img.shields.io/badge/Tableau-0a0a0a?style=for-the-badge&logo=tableau&logoColor=00ffd1"/>
-  <img src="https://img.shields.io/badge/PowerBI-0a0a0a?style=for-the-badge&logo=powerbi&logoColor=00ffd1"/>
-  <img src="https://img.shields.io/badge/Excel-0a0a0a?style=for-the-badge&logo=microsoft-excel&logoColor=00ffd1"/>
+  <img src="https://skillicons.dev/icons?i=python,sql,firebase,flask,django,html5,css3,js,mern,git,github,vscode,figma,canva,ai,powershell,photoshop,tally,tailwindCSS,huggingface,postman,kaggle" /><br/>
+ 
   <img src="https://img.shields.io/badge/Analytics-0a0a0a?style=for-the-badge&logo=google-analytics&logoColor=00ffd1"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-0a0a0a?style=for-the-badge&logo=openai&logoColor=00ffd1"/>
 </p>
 
 ---
