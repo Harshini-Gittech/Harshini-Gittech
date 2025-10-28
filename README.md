@@ -6,7 +6,7 @@
 <!-- ===== Animated Header (letters appear one by one) ===== -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1200&center=true&vCenter=true&width=800&height=60&color=00E5B5&lines=Hi+there!+%F0%9F%91%8B+I'm+HARSHINI; Computer Application+%7C+Futurist+%7C+Data+Enthusiast+%7C+Web+Architect"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1200&center=true&vCenter=true&width=800&height=60&color=00E5B5&lines=Hi+there!+%F0%9F%91%8B+I'm+HARSHINI;Computer_Application+%7C+Futurist+%7C+Data+Enthusiast+%7C+Web+Architect"
     alt="Typing intro"
   />
 </p>
