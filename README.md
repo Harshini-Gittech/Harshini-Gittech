@@ -15,16 +15,16 @@
 ## 🌼 About Me
 <table>
 <tr>
-<td width="65%">
-  🎓 BCA Student @ Mangalore University
-  💻 Exploring the intersection of Data Analytics, AI, and Full Stack Development
-  🧩 Learning Python, SQL, React.js, MongoDB, and Power BI — one bug at a time
-  ⚙️ Strong in problem-solving, data visualization, and UI thinking
-  🚀 Driven to turn raw data and ideas into simple, functional digital solutions
-  💬 Believe in growing through curiosity, consistency, and real-world practice
-  Code with logic. Design with empathy. Learn without limits.
-
+<td width="65%" valign="top">
+  🎓 <b>Computer Application</b><br>
+  🔭 Exploring the intersection of Data Analytics, AI, and Full-Stack development<br>
+  🧠 Learning Python, SQL, React.js, MongoDB, and Power BI<br>
+  🧩 Strong in problem-solving, data visualization, and UI thinking<br>
+  🚀 Driven to turn raw data and ideas into simple, useful digital solutions<br>
+  🌱 Believe in growth through curiosity, consistency, and real-world practice<br>
+  💡 Code with logic. Design with empathy. Learn without limits.<br>
 </td>
+
 <td width="35%" align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="girl coding gif" width="100%">
 </td>
@@ -59,8 +59,8 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,firebase,flask,django,html5,css3,js,mern,git,github,vscode,figma,canva,ai,powershell,photoshop,tally,tailwindCSS,huggingface,postman,kaggle" /><br/>
- 
+<img src="https://skillicons.dev/icons?i=python,sql,firebase,flask,django,html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,canva,ai,powershell,photoshop,tailwind,postman" /><br/>
+
   <img src="https://img.shields.io/badge/Analytics-0a0a0a?style=for-the-badge&logo=google-analytics&logoColor=00ffd1"/>
 </p>
 
