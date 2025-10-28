@@ -54,7 +54,7 @@
     👉 Explore all my GitHub Repositories
   </a>
 </p>
-
+<p align="center"><i>“The computer was born to solve problems that did not exist before.”</i><br>— <b>Bill Gates</b></p>
 ---
 
 ## 💻 Tech Stack
@@ -63,6 +63,8 @@
 
   <img src="https://img.shields.io/badge/Analytics-0a0a0a?style=for-the-badge&logo=google-analytics&logoColor=00ffd1"/>
 </p>
+
+<p align="center"><i>“Every line I write brings me closer to version 2.0 of myself.”</i></p>
 
 ---
 
@@ -75,6 +77,9 @@
 <p align="center">
   <img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini-Gittech&theme=react-dark&hide_border=true&area=true" />
 </p>
+## 📈 GitHub Statistics
+
+<p align="center"><i>“Curiosity is my framework.”</i></p>
 
 ---
 
