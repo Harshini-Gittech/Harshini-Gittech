@@ -77,7 +77,6 @@
 <p align="center">
   <img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini-Gittech&theme=react-dark&hide_border=true&area=true" />
 </p>
-## 📈 GitHub Statistics
 
 <p align="center"><i>“Curiosity is my framework.”</i></p>
 
