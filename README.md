@@ -68,7 +68,7 @@
 ## 💻 Tech Stack
 🚀 Full-Stack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,html,css" />
 </p>
  📡 Backend & APIs
 <p>
@@ -76,7 +76,7 @@
 </p>
  📊 Analytics & Visualization
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,matplotlib,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,sql,powerbi" />
 </p>
  ☁ Cloud & DevOps 
 <p>
@@ -85,6 +85,9 @@
 🧰 Tools & Productivity
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma,ps,vscode,linux" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning_Everyday-Consistency_Over_Intensity-blue?style=for-the-badge" />
 </p>
 <p align="center"><i>“Every line I write brings me closer to version 2.0 of myself.”</i></p>
 ---
