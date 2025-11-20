@@ -117,5 +117,5 @@
 ---
 
 <p align="center">
-  ⚙️ <b>Made with Tech</b> 💡
+  ⚙️ <b>Made with Tech</b> 💙
 </p>
