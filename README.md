@@ -82,10 +82,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshini-Gittech&layout=compact&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini-Gittech&theme=react-dark&hide_border=true&height=230" />
 </p>
 
@@ -107,6 +103,9 @@
 ---
 
 ## 🤝 Contact With Me
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" />
+</p>
 <p align="center">
   <a href="mailto:harshiniharshu1012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/harshini-380a74326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
