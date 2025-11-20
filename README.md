@@ -67,20 +67,14 @@
 
 ## 💻 Tech Stack
 
- 🚀 
 <p>
   <img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,js,html,css,git,github,vscode" />
 </p>
-
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ai,ps,powershell,linux" />
-</p>
-
-<p>
+</p><p>
   <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,aws" />
-</p>
-
-<p>
+</p><p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp" />
 </p>
 
