@@ -18,10 +18,15 @@
 <td width="65%" valign="top">
   🎓 <b>Computer Application</b><br>
   🔭 Exploring the intersection of Data Analytics, AI, and Full-Stack development<br>
+  
   🧠 Learning Python, SQL, React.js, MongoDB, and Power BI<br>
+  
   🧩 Strong in problem-solving, data visualization, and UI thinking<br>
+  
   🚀 Driven to turn raw data and ideas into simple, useful digital solutions<br>
+  
   🌱 Believe in growth through curiosity, consistency, and real-world practice<br>
+  
   💡 Code with logic. Design with empathy. Learn without limits.<br>
 </td>
 
