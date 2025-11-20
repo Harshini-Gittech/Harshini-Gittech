@@ -1,5 +1,5 @@
 <!-- ===== Animated Header ===== -->
-<h1 align="center"> Hi there! 👋 I'm <span style="color:#00FFCC">Harshini</span> </h1>
+<h1 align="center"> Hi there! I'm <span style="color:#00FFCC">Harshini</span> </h1>
 
 <p align="center">
   📌 Computer Application | Futurist | Data Enthusiast | Web Architect
@@ -7,10 +7,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harshini-Gittech&label=Profile%20Views&color=00FFC8&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>"Every project I build brings me closer to the person I want to become."</i>
 </p>
 
 ## 🌼 About Me
