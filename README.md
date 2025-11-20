@@ -46,7 +46,7 @@
 🔹 📊 **Analytics Dashboard** — Data Visualization with Charts & Insights  
 <p align="left">
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud%20Deployment-Planned-blue?style=for-the-badge" />
+
   <img src="https://img.shields.io/badge/Tech%20Stack-Confidential-red?style=for-the-badge" />
 </p>
 
