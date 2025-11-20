@@ -67,19 +67,19 @@
 
 ## 💻 Tech Stack
 
-#### 🚀 Core Skills
+ 🚀 
 <p>
   <img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,js,html,css,git,github,vscode" />
 </p>
-#### 📊 Tools & Analytics
+
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ai,ps,powershell,linux" />
 </p>
-#### 🌱 Currently Learning
+
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,aws" />
 </p>
-#### 🔮 Future Focus
+
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp" />
 </p>
