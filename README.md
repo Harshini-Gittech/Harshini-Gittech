@@ -103,7 +103,6 @@
 </p>
 
 <p align="center"><i>“Curiosity is my framework.”</i></p>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -111,12 +110,10 @@
   <img src="https://github-trophies.vercel.app/?username=Harshini-Gittech&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
-
 ## 💬 Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
-
 ---
 
 ## 🤝 Contact With Me
@@ -127,19 +124,16 @@
   <a href="mailto:harshiniharshu1012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/harshini-380a74326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
 ---
 
 ## 🧠 Git Fact
 <p align="center"><i>Glitches in my code &gt; silence in your grind.</i></p>
-
 ---
 
 <!-- ===== Neon Tech Footer: straight blue–green bar ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&section=footer&height=80&color=0:00ffd1,100:00a3ff&text=&fontColor=ffffff&reversal=true" alt="neon footer"/>
 </p>
-
 ---
 
 <p align="center">
