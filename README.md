@@ -59,9 +59,10 @@
   <a href="https://github.com/Harshini-Gittech?tab=repositories">
     👉 Explore all my GitHub Repositories
   </a>
+  
 </p>
 <p align="center"><i>“The computer was born to solve problems that did not exist before.”</i><br>— <b>Bill Gates</b></p>
----
+
 
 ## 💻 Tech Stack
 <p align="center">
