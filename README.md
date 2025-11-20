@@ -1,15 +1,17 @@
 <!-- ===== Animated Header ===== -->
+<h1 align="center"> Hi there! 👋 I'm <span style="color:#00FFCC">Harshini</span> </h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1200&center=true&vCenter=true&width=800&height=60&color=00E5B5&lines=Hi+there!+%F0%9F%91%8B+I'm+HARSHINI" alt="Typing intro"/>
+  📌 Computer Application | Futurist | Data Enthusiast | Web Architect
 </p>
 
-<h3 align="center">Computer Application | Futurist | Data Enthusiast | Web Architect</h3>
-
-<!-- ===== Profile Views ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshini-Gittech&label=Profile%20Views&color=00d4ff&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Harshini-Gittech&label=Profile%20Views&color=00FFC8&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <i>"Every project I build brings me closer to the person I want to become."</i>
+</p>
 
 ## 🌼 About Me
 <table>
