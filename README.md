@@ -41,10 +41,9 @@
 
 ## 🌠 Featured Projects
 
-🔹 🚀 **Profile-Hub** — Full-Stack Portfolio & Resume Builder  
-🔹 🎓 **Academic Management System** — Students, Marks, Attendance & Reports  
+🔹 🚀 **Student-Centric Job Portal** — Full-Stack web devlopment  
+🔹 🎓 ** SmartCampus Hub** — Students-events info & Reports  
 🔹 📊 **Analytics Dashboard** — Data Visualization with Charts & Insights  
-🔹 ⏳ **Capstone Project — Coming Soon**
 <p align="left">
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloud%20Deployment-Planned-blue?style=for-the-badge" />
