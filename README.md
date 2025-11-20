@@ -10,7 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=Harshini-Gittech&label=Profile%20Views&color=00d4ff&style=flat-square" alt="Profile views" />
 </p>
 
----
 
 ## 🌼 About Me
 <table>
@@ -37,7 +36,6 @@
 </tr>
 </table>
 
----
 
 ## 🌠 Featured Projects
 
@@ -50,7 +48,6 @@
   <img src="https://img.shields.io/badge/Tech%20Stack-Confidential-red?style=for-the-badge" />
 </p>
 
----
 
 ## 📂 GitHub Repositories
 
@@ -90,7 +87,6 @@
   <img src="https://img.shields.io/badge/Learning_Everyday-Consistency_Over_Intensity-blue?style=for-the-badge" />
 </p>
 <p align="center"><i>“Every line I write brings me closer to version 2.0 of myself.”</i></p>
----
 
 ## 📊 GitHub Statistics
 
@@ -103,7 +99,6 @@
 </p>
 
 <p align="center"><i>“Curiosity is my framework.”</i></p>
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -114,7 +109,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
----
 
 ## 🤝 Contact With Me
 <p align="center">
@@ -124,17 +118,14 @@
   <a href="mailto:harshiniharshu1012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/harshini-380a74326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
----
 
 ## 🧠 Git Fact
 <p align="center"><i>Glitches in my code &gt; silence in your grind.</i></p>
----
 
 <!-- ===== Neon Tech Footer: straight blue–green bar ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&section=footer&height=80&color=0:00ffd1,100:00a3ff&text=&fontColor=ffffff&reversal=true" alt="neon footer"/>
 </p>
----
 
 <p align="center">
   ⚙️ <b>Made with Tech</b> 💙
