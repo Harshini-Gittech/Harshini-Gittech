@@ -53,20 +53,35 @@
 ---
 
 ## 📂 GitHub Repositories
+
 <p align="center">
   <a href="https://github.com/Harshini-Gittech?tab=repositories">
-    👉 Explore all my GitHub Repositories
+    🔍 <b>Browse all my GitHub Projects</b>
   </a>
-  
 </p>
-<p align="center"><i>“The computer was born to solve problems that did not exist before.”</i><br>— <b>Bill Gates</b></p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Repos-18-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Public-100%25-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active_Since_2024-purple?style=for-the-badge" />
+</p>
 
 ## 💻 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql,firebase,flask,django,html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,canva,ai,powershell,photoshop,tailwind,postman" /><br/>
 
-  <img src="https://img.shields.io/badge/Analytics-0a0a0a?style=for-the-badge&logo=google-analytics&logoColor=00ffd1"/>
+#### 🚀 Core Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,js,html,css,git,github,vscode" />
+</p>
+#### 📊 Tools & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,powershell,linux" />
+</p>
+#### 🌱 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,aws" />
+</p>
+#### 🔮 Future Focus
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp" />
 </p>
 
 <p align="center"><i>“Every line I write brings me closer to version 2.0 of myself.”</i></p>
