@@ -80,7 +80,7 @@
 </p>
  ☁ Cloud & DevOps 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,render,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,docker" />
 </p>
 🧰 Tools & Productivity
 <p>
