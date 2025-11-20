@@ -1,5 +1,7 @@
 <!-- ===== Animated Header ===== -->
-<h1 align="center"> Hi there! 👋 I'm <span style="color:#00FFCC">Harshini</span> </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&center=true&vCenter=true&width=500&color=00FFCC&lines=Hi+there!+👋;I'm+Harshini" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <b>Computer Application | Futurist | Data Enthusiast | Web Architect</b>
