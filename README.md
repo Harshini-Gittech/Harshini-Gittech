@@ -17,6 +17,7 @@
 <tr>
 <td width="65%" valign="top">
   🎓 <b>Computer Application</b><br>
+  
   🔭 Exploring the intersection of Data Analytics, AI, and Full-Stack development<br>
   
   🧠 Learning Python, SQL, React.js, MongoDB, and Power BI<br>
