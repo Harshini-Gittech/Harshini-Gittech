@@ -84,8 +84,10 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshini-Gittech&theme=onestar&no-frame=true&row=1&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshini-Gittech&theme=algolia&no-bg=true&no-frame=true&column=6" />
 </p>
+
+
 
 ---
 
