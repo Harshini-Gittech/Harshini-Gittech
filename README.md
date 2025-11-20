@@ -78,12 +78,15 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshini-Gittech&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshini-Gittech&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_rank=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshini-Gittech&layout=compact&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini-Gittech&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini-Gittech&theme=react-dark&hide_border=true&height=230" />
 </p>
 
 <p align="center"><i>“Curiosity is my framework.”</i></p>
