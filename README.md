@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there! I'm <span style="color:#00FFCC">Harshini</span> </h1>
 
 <p align="center">
-  📌 Computer Application | Futurist | Data Enthusiast | Web Architect
+  <b>Computer Application | Futurist | Data Enthusiast | Web Architect</b>
 </p>
 
 <p align="center">
