@@ -67,9 +67,18 @@ Git • GitHub • VS Code • Postman • Linux
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-(Keep your existing GitHub Stats section.)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshini-Gittech&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini-Gittech&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini-Gittech&theme=react-dark&hide_border=true" />
+</p>
+
 
 ---
 
