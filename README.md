@@ -15,7 +15,7 @@ MCA Student • Data Engineering
 
 ---
 
-# 👩‍💻 About Me
+# 👩‍💻 About
 
 🎓 MCA Student (2026–2028)
 
