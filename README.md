@@ -1,142 +1,170 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFC8&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Harshini+👋;Future+Data+Engineer;SQL+%7C+Python+%7C+Snowflake;Building+Projects+Every+Week" />
-</p>
+<h1 align="center">Hi , I'm Harshini</h1>
 
-<h1 align="center">Harshini</h1>
-
-<p align="center">
-MCA Student • Data Engineering 
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Harshini-Gittech&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+<h3 align="center">Data Engineering | MCA Student | Aspiring Data Engineer</h3>
 
 ---
 
-# 👩‍💻 About
+#    About Me
 
-🎓 MCA Student (2026–2028)
-
-📊 Building practical skills in Data Engineering through real-world projects
-
-💻 Interested in SQL, Python, Snowflake, Microsoft Fabric & Cloud
-
-🚀 Passionate about building practical, portfolio-worthy projects
-
-📚 Currently Learning
-
-• Snowflake
-• Microsoft Fabric
-• ETL Pipelines
-• Data Warehousing
-• Cloud Fundamentals (AWS)
-
-🎯 Goal
-
-Build scalable data platforms and begin my career as a Data Engineer in a global technology company
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-Python • SQL • Java • JavaScript
-
-### Data Engineering
-
-Snowflake • Microsoft Fabric • ETL • Pandas • Power BI
-
-### Databases
-
-MySQL • PostgreSQL • MongoDB
-
-### Backend
-
-Node.js • Express.js • REST API
-
-### Cloud
-
-AWS (Learning)
-
-Azure (Learning)
-
-### Tools
-
-Git • GitHub • VS Code • Linux • Postman
+-  MCA Student passionate about Data Engineering and Cloud Technologies.
+-  BCA Graduate from Mangalore University.
+-  Currently learning **Python, SQL, Snowflake, Microsoft Fabric, Pandas and ETL.**
+-  Exploring **Cloud Computing, Data Pipelines and Modern Data Warehousing.**
+-  Interested in **Big Data, Data Analytics and Scalable Data Solutions.**
+-  Building real-world projects to strengthen practical skills.
+- 🎯 Goal: Become a **Data Engineer** in a leading MNC and build enterprise-scale data platforms.
 
 ---
 
-# 🚀 Featured Projects
+# 💻 Programming Languages
 
-## ⚙️ Multi-Agent Pipeline Builder
-AI-powered data pipeline generator using Python.
-
----
-
-## 📊 Family Finance Hub
-
-Shared household finance management platform.
-
-React • Firebase • Firestore
+- Python
+- SQL
+- Java
+- JavaScript
+- PHP
 
 ---
 
-## 🎓 Campus Talent Collaboration System
+# 🌐 Web Technologies
 
-Student collaboration platform using MERN Stack.
-
----
-
-## 📈 Sales Analytics Dashboard
-
-Power BI dashboard for business insights.
-
----
-
-# 📚 Currently Learning
-
-✅ Snowflake
-
-✅ Microsoft Fabric
-
-✅ Data Warehousing
-
-✅ ETL Pipelines
-
-✅ Cloud Basics
+- HTML5
+- CSS3
+- React.js
+- Node.js
+- Express.js
+- Flask
 
 ---
 
-# 📈 GitHub Stats
+# 🗄️ Database Technologies
 
-<p align="center">
+- MySQL
+- MongoDB
+- Firebase Firestore
+- Snowflake
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshini-Gittech&show_icons=true&theme=tokyonight&hide_border=true"/>
+---
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini-Gittech&layout=compact&theme=tokyonight&hide_border=true"/>
+# ☁️ Cloud & Data Engineering
+
+- Microsoft Fabric
+- Azure Fundamentals
+- AWS Fundamentals
+- ETL Concepts
+- Data Warehousing
+- Data Pipelines
+- Apache Airflow *(Learning)*
+
+---
+
+# 📊 Data Analytics & Visualization
+
+- Pandas
+- NumPy
+- Power BI
+- Microsoft Excel
+- Matplotlib
+
+---
+
+# ⚙️ Tools & Platforms
+
+- Visual Studio Code
+- Git
+- GitHub
+- Postman
+- Jupyter Notebook
+- Google Colab
+- IntelliJ IDEA
+
+---
+
+# 📌 What You'll Find in My GitHub
+
+- 🚀 Data Engineering Projects
+- 📊 Power BI Dashboards
+- 🐍 Python Projects
+- 🗃️ SQL Practice & Queries
+- ☁️ Cloud Learning Projects
+- 🔄 ETL Mini Projects
+- 📈 Data Analytics Projects
+- 🌐 Full Stack Applications
+- 🎓 MCA Academic Projects
+- 📒 Infosys Springboard Learning Repository
+
+---
+
+# 🏅 Tech Stack & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mysql,mongodb,firebase,git,github,vscode,postman" />
 
 </p>
 
-<p align="center">
+<p align="left">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini-Gittech&theme=tokyo-night&hide_border=true"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 🏆 Developer Profile
 
-📧 harshiniharshu1012@gmail.com
-
-💼 LinkedIn
-
-https://linkedin.com/in/harshini-380a74326
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark)
 
 ---
 
-# 💡 Quote
+# 📊 GitHub Stats
 
-> "Consistency compounds. Every project is another step forward."
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+
+---
+
+# 🔥 GitHub Streak
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark)
+
+---
+
+# 🐍 Contribution Snake
+
+![](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark)
+
+---
+
+# 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_URL
+- 📧 Email: YOUR_EMAIL
+- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+# Thanks for visiting my profile!
+
+If you enjoy my projects, consider starring the repositories and following my Data Engineering learning journey.
+
+**Learning • Building • Sharing • Growing**
