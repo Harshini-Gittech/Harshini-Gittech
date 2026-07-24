@@ -1,10 +1,10 @@
-<h1 align="center">Hi , I'm Harshini</h1>
+Hi , I'm Harshini
 
-<h3 align="center">Data Engineering | MCA Student | Aspiring Data Engineer</h3>
+Data Engineering | MCA Student | Aspiring Data Engineer
 
 ---
 
-#    About Me
+  About Me
 
 -  MCA Student passionate about Data Engineering and Cloud Technologies.
 -  BCA Graduate from Mangalore University.
@@ -16,7 +16,7 @@
 
 ---
 
-# 💻 Programming Languages
+💻 Programming Languages
 
 - Python
 - SQL
@@ -26,7 +26,7 @@
 
 ---
 
-# 🌐 Web Technologies
+🌐 Web Technologies
 
 - HTML5
 - CSS3
@@ -37,7 +37,7 @@
 
 ---
 
-# 🗄️ Database Technologies
+🗄️ Database Technologies
 
 - MySQL
 - MongoDB
@@ -46,7 +46,7 @@
 
 ---
 
-# ☁️ Cloud & Data Engineering
+☁️ Cloud & Data Engineering
 
 - Microsoft Fabric
 - Azure Fundamentals
@@ -58,7 +58,7 @@
 
 ---
 
-# 📊 Data Analytics & Visualization
+📊 Data Analytics & Visualization
 
 - Pandas
 - NumPy
@@ -68,7 +68,7 @@
 
 ---
 
-# ⚙️ Tools & Platforms
+⚙️ Tools & Platforms
 
 - Visual Studio Code
 - Git
@@ -80,7 +80,7 @@
 
 ---
 
-# 📌 What You'll Find in My GitHub
+📌 What You'll Find in My GitHub
 
 - 🚀 Data Engineering Projects
 - 📊 Power BI Dashboards
@@ -95,7 +95,7 @@
 
 ---
 
-# 🏅 Tech Stack & Tools
+Tech Stack & Tools
 
 <p align="left">
 
@@ -123,39 +123,38 @@
 
 ---
 
-# 🏆 Developer Profile
+🏆 Developer Profile
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark)
 
 ---
 
-# 📊 GitHub Stats
+📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
 
 ---
-
-# 🔥 GitHub Streak
+🔥 GitHub Streak
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark)
 
 ---
 
-# 🐍 Contribution Snake
+🐍 Contribution Snake
 
 ![](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-# 📈 Contribution Graph
+ 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark)
 
 ---
 
-# 🤝 Connect With Me
+ 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_URL
 - 📧 Email: YOUR_EMAIL
@@ -163,8 +162,8 @@
 
 ---
 
-# Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 If you enjoy my projects, consider starring the repositories and following my Data Engineering learning journey.
 
-**Learning • Building • Sharing • Growing**
+*Learning • Building • Sharing • Growing*
