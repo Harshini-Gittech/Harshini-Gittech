@@ -151,12 +151,13 @@ Tech Stack & Tools
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Harshini-Gittech/Harshini-Gittech/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+---
 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini-Gittech&theme=github-dark&hide_border=true"/>
----
 
+
+---
  🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/harshini-380a74326/
