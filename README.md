@@ -124,22 +124,22 @@ Tech Stack & Tools
 ---
 
 🏆 Developer Profile
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshini-Gittech&theme=github_dark"width="100%" />
 ---
 
 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshini-Gittech&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini-Gittech&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 🔥 GitHub Streak
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harshini-Gittech&theme=github-dark&hide_border=true"/>
+</p>
 ---
 
 🐍 Contribution Snake
@@ -152,10 +152,9 @@ Tech Stack & Tools
 
 ---
 
- 📈 Contribution Graph
+📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini-Gittech&theme=github-dark&hide_border=true"/>
 ---
 
  🤝 Connect With Me
