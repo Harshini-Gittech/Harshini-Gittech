@@ -156,9 +156,9 @@ Tech Stack & Tools
 
  🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_URL
-- 📧 Email: YOUR_EMAIL
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- 💼 LinkedIn: https://www.linkedin.com/in/harshini-380a74326/
+- 📧 Email: harshiniharshu1012@gmail.com
+- 💻 GitHub: https://github.com/Harshini-Gittech/
 
 ---
 
