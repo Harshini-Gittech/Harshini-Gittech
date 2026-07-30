@@ -16,27 +16,6 @@ Data Engineering | MCA Student | Aspiring Data Engineer
 
 ---
 
-💻 Programming Languages
-
-- Python
-- SQL
-- Java
-- JavaScript
-- PHP
-
----
-
-🌐 Web Technologies
-
-- HTML5
-- CSS3
-- React.js
-- Node.js
-- Express.js
-- Flask
-
----
-
 🗄️ Database Technologies
 
 - MySQL
@@ -55,28 +34,6 @@ Data Engineering | MCA Student | Aspiring Data Engineer
 - Data Warehousing
 - Data Pipelines
 - Apache Airflow *(Learning)*
-
----
-
-📊 Data Analytics & Visualization
-
-- Pandas
-- NumPy
-- Power BI
-- Microsoft Excel
-- Matplotlib
-
----
-
-⚙️ Tools & Platforms
-
-- Visual Studio Code
-- Git
-- GitHub
-- Postman
-- Jupyter Notebook
-- Google Colab
-- IntelliJ IDEA
 
 ---
 
