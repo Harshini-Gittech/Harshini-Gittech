@@ -44,7 +44,7 @@ Data Engineering | MCA Student | Aspiring Data Engineer
 - 🐍 Python Projects
 - 🗃️ SQL Practice & Queries
 - ☁️ Cloud Learning Projects
-- 🔄 ETL Mini Projects
+- 🔄 ETL Mini Project
 - 📈 Data Analytics Projects
 - 🌐 Full Stack Applications
 - 🎓 MCA Academic Projects
