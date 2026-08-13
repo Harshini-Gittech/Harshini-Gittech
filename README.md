@@ -8,7 +8,7 @@ Data Engineering | MCA Student | Aspiring Data Engineer
 
 -  MCA Student passionate about Data Engineering and Cloud Technologies.
 -  BCA Graduate from Mangalore University.
--  Currently learning **Python, SQL, Snowflake, Microsoft Fabric, Pandas and ETL.**
+-  **Python, SQL, Snowflake, Microsoft Fabric, Pandas and ETL.**
 -  Exploring **Cloud Computing, Data Pipelines and Modern Data Warehousing.**
 -  Interested in **Big Data, Data Analytics and Scalable Data Solutions.**
 -  Building real-world projects to strengthen practical skills.
