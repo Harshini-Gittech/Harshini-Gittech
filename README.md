@@ -86,20 +86,6 @@ Tech Stack & Tools
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshini-Gittech&theme=github_dark" width="75%">
 </p>
 
-
-📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshini-Gittech&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini-Gittech&layout=compact&langs_count=8&theme=github_dark"/>
-</p>
-
-🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshini-Gittech&theme=github-dark&hide_border=true"/>
-</p>
-
 🐍 Contribution Snake
 
 <picture>
