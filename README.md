@@ -108,7 +108,3 @@ Thanks for visiting my profile!
 If you enjoy my projects, consider starring the repositories and following my Data Engineering learning journey.
 
 *Learning • Building • Sharing • Growing*
----
-📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini-Gittech&theme=github-dark&hide_border=true"/>
