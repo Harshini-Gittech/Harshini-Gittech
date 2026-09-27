@@ -6,7 +6,7 @@ MCA Student | Engineer
 
   About Me
 
--  MCA Student passionate about Data Engineering and Cloud Technologies.
+-  MCA Student .
 -  BCA Graduate from Mangalore University.
 ---
 
